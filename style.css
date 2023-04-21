@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 500px;
+    width: 100%;
+
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background: #000;
+    color: white;
+    
+}
+li{
+    display: inline;
+    margin: 10px;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background: aqua;
+    color: rebeccapurple;
+    text-align-last: right;
+}
+.container{
+    height: 500px;
+    width: 100%;
+}
+.slide1{
+    height: 500px;
+    width: 33%;
+    background: red;
+    float: left;
+}
+.slide2{
+    height: 500px;
+    width: 33%;
+    background: rgb(0, 255, 76);
+    float: left;
+}
+.slide3{
+    height: 500px;
+    width: 34%;
+    background: blue;
+    float: left;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background: black;
+    color: white;
+}
